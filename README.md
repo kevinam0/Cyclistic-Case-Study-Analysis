@@ -9,3 +9,5 @@ https://www.kaggle.com/datasets/kevinam/divvy-trip-data-august-2022-july-2023
 - RStudio
 - Kaggle Kernels
 
+### Original Kaggle Notebook:
+https://www.kaggle.com/code/kevinam/google-data-analytics-capstone-cyclistic 
