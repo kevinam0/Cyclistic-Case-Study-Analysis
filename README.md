@@ -6,7 +6,7 @@ This is my capstone project for Google's Data Analytics Professional Certificate
 
 Attached is my [case study analysis](https://github.com/kevinam0/Cyclistic-Case-Study-Analysis/blob/4dc7336ca68e07d398e73a8e8560619c527995d0/google-data-analytics-capstone-cyclistic%20(3).ipynb) (along with its supporting [code](https://github.com/kevinam0/Cyclistic-Case-Study-Analysis/blob/4dc7336ca68e07d398e73a8e8560619c527995d0/Cyclistic%20Data%20Cleaning%20and%20Analysis.R)) of Cyclistic; a fictitious bike-share company based on historical data of real Chicago bike-share company, Divvy. 
 
-Working as a data analyst within Cyclistic's marketing team, I am given with the role of reporting key insights into how customers with annual subscriptions differ from customers purchasing single ride/daily passes in order to help craft and implement a targeted marketing strategy to convert these casual customers to annual Cyclistic members. 
+Working as a data analyst within Cyclistic's marketing team, I am given the role of reporting key insights into how customers with annual subscriptions differ from customers purchasing single ride/daily passes in order to help craft and implement a targeted marketing strategy to convert these casual customers to annual Cyclistic members. 
 
 ### Monthly Trip Data Used in Analysis:
 https://www.kaggle.com/datasets/kevinam/divvy-trip-data-august-2022-july-2023
